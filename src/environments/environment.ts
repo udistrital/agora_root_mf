@@ -21,6 +21,7 @@ export const environment = {
   },
   parcels: {
     "@udistrital/root-config": "//localhost:4200/udistrital-root-config.js",
+    "@udistrital/agora-gestion-personas-mf": "//localhost:4203/main.js",
     "@udistrital/core-mf":
       "https://pruebascoreclientes.portaloas.udistrital.edu.co/main.js",
   },
