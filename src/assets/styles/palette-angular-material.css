@@ -1,0 +1,107 @@
+:root {
+  --primary: #731514 !important;
+
+  --color0: #f3ebeb;
+  --color1: #ebdddd;
+  --color2: #c39a9a;
+  --color3: #af7978;
+  --color4: #873635;
+  --color5: #731514;
+
+  --color100: #ffeae6;
+  --color200: #ffd7ce;
+  --color300: #efbeb4;
+  --color400: #dea69a;
+  --color500: #cd8e81;
+  --color600: #bc7669;
+  --color700: #aa5f52;
+  --color800: #98483c;
+  --color900: #863028;
+
+  --success-main: #9EBF77;
+  --success-base: #55993D;
+  --success-accent:#147314;
+
+  --warning-main: #FCD17E;
+  --warning-base: #FBBB3E;
+  --warning-accent: #FAA500;
+
+  --danger-base: #E19B9B;
+  --danger-main: #C95858;
+  --danger-accent: #B22222;
+
+  --others-base: #869FC7;
+  --others-main: #42659D;
+  --others-accent: #143873;
+
+  /* Configuración de colores primarios*/
+  --md-primary-50: #ffeae6;
+  --md-primary-100: #ffe0e0;
+  --md-primary-200: #ffc7c7;
+  --md-primary-300: #ff6968;
+  --md-primary-400: #e81b1a;
+  --md-primary-500: #a11413; /* Color base */
+  --md-primary-600: #851817;
+  --md-primary-700: #7f1918;
+  --md-primary-800: #4a0d0d;
+  --md-primary-900: #490606;
+
+  /* Configuración de contraste */
+  --md-primary-contrast-50: #731514;
+  --md-primary-contrast-100: #731514;
+  --md-primary-contrast-200: #731514;
+  --md-primary-contrast-300: #731514;
+  --md-primary-contrast-400: #ffffff;
+  --md-primary-contrast-500: #ffffff; /* Contraste para el color base */
+  --md-primary-contrast-600: #ffffff;
+  --md-primary-contrast-700: #ffffff;
+  --md-primary-contrast-800: #ffffff;
+  --md-primary-contrast-900: #ffffff;
+
+  /* Paleta de colores para md-accent basada en #fcaa67 */
+  --md-accent-50: #fff4ed; /* Tonalidad más clara */
+  --md-accent-100: #fff5ed; /* Color base */
+  --md-accent-200: #ffe8d5;
+  --md-accent-300: #ffe8d5;
+  --md-accent-400: #ffd2b3;
+  --md-accent-500: #ffc092;
+  --md-accent-600: #c06d4b;
+  --md-accent-700: #992c13;
+  --md-accent-800: #7b2713;
+  --md-accent-900: #3c1513; /* Tonalidad más oscura */
+
+  /* Contraste de la paleta de `md-accent` */
+  --md-accent-contrast-50: #3c1513;
+  --md-accent-contrast-100: #3c1513;
+  --md-accent-contrast-200: #3c1513;
+  --md-accent-contrast-300: #3c1513;
+  --md-accent-contrast-400: #3c1513;
+  --md-accent-contrast-500: #3c1513;
+  --md-accent-contrast-600: #3c1513;
+  --md-accent-contrast-700: #ffffff;
+  --md-accent-contrast-800: #ffffff;
+  --md-accent-contrast-900: #ffffff;
+
+  --md-warning-50: #fff1f1;
+  --md-warning-100: #ffe0e0;
+  --md-warning-200: #ffc8c7;
+  --md-warning-300: #ffa1a0;
+  --md-warning-400: #ff6a69;
+  --md-warning-500: #e71d1b; /* Color base */
+  --md-warning-600: #c21513;
+  --md-warning-700: #a11413;
+  --md-warning-800: #851817;
+  --md-warning-900: #490706; /* Más oscuro */
+
+  /* Contraste */
+  --md-warning-contrast-50: #731514;
+  --md-warning-contrast-100: #731514;
+  --md-warning-contrast-200: #731514;
+  --md-warning-contrast-300: #731514;
+  --md-warning-contrast-400: #731514;
+  --md-warning-contrast-500: #ffffff; /* Contraste para el color base */
+  --md-warning-contrast-600: #ffffff;
+  --md-warning-contrast-700: #ffffff;
+  --md-warning-contrast-800: #ffffff;
+  --md-warning-contrast-900: #ffffff; /* Contraste claro para el color más oscuro */
+}
